@@ -1,0 +1,9 @@
+test:
+  python3 -m unittest test_puzzles.py
+
+puzzle1:
+  python3 puzzles.py puzzle1
+
+puzzle2:
+  python3 puzzles.py puzzle2
+
