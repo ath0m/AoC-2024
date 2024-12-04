@@ -1,0 +1,9 @@
+test:
+    python3 -m unittest test.py
+
+p1:
+    python3 main.py p1
+
+p2:
+    python3 main.py p2
+
