@@ -1,0 +1,9 @@
+test:
+  pytest --verbose
+
+p1:
+  python puzzle.py p1
+
+p2:
+  python puzzle.py p2
+
