@@ -1,9 +1,0 @@
-test:
-  go test
-
-p1:
-  go run main.go p1
-
-p2:
-  go run main.go p2
-
